@@ -1,6 +1,10 @@
 print("Hello World!")
 <<<<<<< HEAD
+<<<<<<< HEAD
 print("Hi)
 =======
 print("Hi")
 >>>>>>> master
+=======
+print("!")
+>>>>>>> origin/master
